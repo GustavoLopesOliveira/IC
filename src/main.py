@@ -18,4 +18,4 @@ while(True) :
     else:
         print("Falha na autenticação")
     
-    time.sleep(10)
+    time.sleep(60)
